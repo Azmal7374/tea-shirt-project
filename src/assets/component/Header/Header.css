@@ -1,0 +1,13 @@
+nav{
+    margin-top: 20px;
+    margin-left: 400px;
+}
+nav a{
+     
+    margin:50px;
+    font-size: 30px;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+
+}
